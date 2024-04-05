@@ -1,36 +1,198 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<a name="readme-top"></a>
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/beiryu/imaginify">
+    <img src="public/images/logo.svg" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Imaginify</h3>
+
+  <p align="center">
+    An awesome Imaginify!
+    <br />
+    <a href="https://github.com/beiryu/imaginify"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/beiryu/imaginify">View Demo</a>
+    ·
+    <a href="https://github.com/beiryu/imaginify/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/beiryu/imaginify/issues">Request Feature</a>
+  </p>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+
+## About The Project
+
+[![Imaginify Screen Shot][product-screenshot]](https://example.com)
+
+Imaginify is a AI-powered image generator.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Built With
+
+- [![Next.js][Next.js]][Nextjs-url]
+- [![Typescript][Typescript]][Typescript-url]
+- [![Prisma][Prisma]][Prisma-url]
+- [![Tailwind][Tailwind]][Tailwind-url]
+- [![Radix UI][Radix UI]][Radix-ui-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
 
 ## Getting Started
 
-First, run the development server:
+To get started with Imaginify, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Prerequisites
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- npm
+  ```sh
+  npm install npm@latest -g
+  ```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. Clone the repo
+   ```sh
+   git clone https://github.com/beiryu/imaginify.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Start the web server
+   ```sh
+   npm run dev
+   ```
 
-## Learn More
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-To learn more about Next.js, take a look at the following resources:
+<!-- USAGE EXAMPLES -->
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Usage
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+_For more examples, please refer to the [Documentation](https://rawg.io/)_
 
-## Deploy on Vercel
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<!-- ROADMAP -->
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Roadmap
+
+- [x] Kick-off project
+- [ ] 
+
+See the [open issues](https://github.com/beiryu/imaginify/issues) for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feat/amazing-feature`)
+3. Commit your Changes (`git commit -m 'feat: Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feat/amazing-feature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTACT -->
+
+## Contact
+
+My name: Beiryu - [Khanh Nguyen Dinh](https://www.facebook.com/khanhjj.dinh/) - dinhnguyenkhanh210401@gmail.com
+
+Project Link: [https://github.com/beiryu/imaginify](https://github.com/beiryu/imaginify)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGMENTS -->
+
+## Acknowledgments
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+- [Img Shields](https://shields.io)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/beiryu/issue-tracker.svg?style=for-the-badge
+[contributors-url]: https://github.com/beiryu/issue-tracker/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/beiryu/issue-tracker.svg?style=for-the-badge
+[forks-url]: https://github.com/beiryu/issue-tracker/network/members
+[stars-shield]: https://img.shields.io/github/stars/beiryu/issue-tracker.svg?style=for-the-badge
+[stars-url]: https://github.com/beiryu/issue-tracker/stargazers
+[issues-shield]: https://img.shields.io/github/issues/beiryu/issue-tracker.svg?style=for-the-badge
+[issues-url]: https://github.com/beiryu/issue-tracker/issues
+[license-shield]: https://img.shields.io/github/license/beiryu/issue-tracker.svg?style=for-the-badge
+[license-url]: https://github.com/beiryu/issue-tracker/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/khanh-ndinh
+[product-screenshot]: public/images/screenshot.png
+[Next.js]: https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=chakraui&logoColor=white
+[Nextjs-url]: https://nextjs.org/
+[Typescript]: https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=chakraui&logoColor=white
+[Typescript-url]: https://www.typescriptlang.org/
+[Prisma]: https://img.shields.io/badge/prisma-000000?style=for-the-badge&logo=chakraui&logoColor=white
+[Prisma-url]: https://www.prisma.io/
+[Tailwind]: https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=chakraui&logoColor=white
+[Tailwind-url]: https://tailwindcss.com/
+[Radix UI]: https://img.shields.io/badge/radixui-000000?style=for-the-badge&logo=chakraui&logoColor=white
+[Radix-ui-url]: https://www.radix-ui.com/
