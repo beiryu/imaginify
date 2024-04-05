@@ -66,7 +66,7 @@ module.exports = {
         },
       },
       fontFamily: {
-        IBMPlex: ["var(--font-ibm-plex-sans"],
+        IBMPlex: ["var(--font-ibm-plex-sans)"],
       },
       backgroundImage: {
         "purple-gradient": "url('/assets/images/gradient-bg.svg')",
