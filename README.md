@@ -62,7 +62,7 @@
 
 [![Imaginify Screen Shot][product-screenshot]](https://example.com)
 
-Imaginify is a AI-powered image generator.
+Imaginify is an AI-powered image generator.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
